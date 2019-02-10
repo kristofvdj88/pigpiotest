@@ -1,0 +1,14 @@
+{
+  "name": "pigpiotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kristof van der jonckheyd",
+  "license": "MIT",
+  "dependencies": {
+    "pigpio": "^1.1.4"
+  }
+}
